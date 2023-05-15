@@ -12,8 +12,8 @@
 
 ### 1.	Descripción del Problema
 
-#### Para el desarrollo de una aplicación que permita aplicar descuentos en la compra de cachuchas del cliente de acuerdo a las condiciones de la empresa JuaCap. Esta aplicación será utilizada por la empresa que fabrica 4 tipos de cachuchas Gorra Trucker, Gorra Snapback, Gorra Flat y el Sombrero Bucket. Cabe resaltar que cada gorra tiene precio de $30.000 pesos colombianos. <br>
-En caso de que la compra supere los límites, se le proporcionara un descuento de: <br>
+#### <p text-aling=justify>Para el desarrollo de una aplicación que permita aplicar descuentos en la compra de cachuchas del cliente de acuerdo a las condiciones de la empresa JuaCap. Esta aplicación será utilizada por la empresa que fabrica 4 tipos de cachuchas Gorra Trucker, Gorra Snapback, Gorra Flat y el Sombrero Bucket. Cabe resaltar que cada gorra tiene precio de $30.000 pesos colombianos. <br>
+En caso de que la compra supere los límites, se le proporcionara un descuento de:</p> <br>
 •	Por la compra de 25 unidades se aplicara un descuento del 5% <br>
 •	Por la compra de 30 unidades se aplicara un descuento del 10% <br>
 •	Por la compra de 40 unidades se aplicara un descuento del 15% <br>
