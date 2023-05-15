@@ -12,8 +12,14 @@
 
 ### 1.	Descripción del Problema
 
-#### <p text-aling=justify> Para el desarrollo de una aplicación que permita aplicar descuentos en la compra de cachuchas del cliente de acuerdo a las condiciones de la empresa JuaCap. Esta aplicación será utilizada por la empresa que fabrica 4 tipos de cachuchas Gorra Trucker, Gorra Snapback, Gorra Flat y el Sombrero Bucket. Cabe resaltar que cada gorra tiene precio de $30.000 pesos colombianos. <br>
-En caso de que la compra supere los límites, se le proporcionara un descuento de:</p> 
+#### Para el desarrollo de una aplicación que permita aplicar descuentos en la compra de cachuchas del cliente de acuerdo a las condiciones de la empresa JuaCap. Esta aplicación será utilizada por la empresa que fabrica 4 tipos de cachuchas Gorra Trucker, Gorra Snapback, Gorra Flat y el Sombrero Bucket. Cabe resaltar que cada gorra tiene precio de $30.000 pesos colombianos. <br>
+En caso de que la compra supere los límites, se le proporcionara un descuento de:
 •	Por la compra de 25 unidades se aplicara un descuento del 5% <br>
 •	Por la compra de 30 unidades se aplicara un descuento del 10% <br>
 •	Por la compra de 40 unidades se aplicara un descuento del 15% <br>
+
+### 2.	Historia del Usuario
+
+#### El propósito de una historia de usuario es articular cómo un elemento de trabajo entregará un valor particular al cliente. Para ello el desarrollo de este se ejecutara mediante la plataforma Jira la cual nos permitirá una mayor accesibilidad a la hora de trabajar. <br>
+![Historia de Usuario](https://github.com/JuanRozo17/JuanRozo05/assets/133442102/612198ef-aa22-4145-8293-61e2a15af641)
+
