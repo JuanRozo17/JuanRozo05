@@ -27,7 +27,7 @@ En caso de que la compra supere los límites, se le proporcionara un descuento d
 ### 3.	Diagrama Caso de Uso
 
 #### Los Diagramas de caso de Uso, sirven para especificar la comunicación y el comportamiento de un sistema mediante su interacción con los usuarios y/u otros sistemas. Para ello se hace uso de la plataforma llamada lucichard la cual tiene elementos básicos para su creación y el detalle del mismo. <br>
-![DiagramaCaso](https://github.com/JuanRozo17/JuanRozo05/assets/133442102/ccba4007-422e-4399-a18d-a9940cf125a8)
+![Diagrama de Caso](https://github.com/JuanRozo17/JuanRozo05/assets/133442102/adbcbf62-7f26-43b5-aa57-41d4e7b66a78)
 
 ### 4.	Diagrama de Flujo 
 
